@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-----Can a man still be bravel when he is afraid?
-----This is the only time a man can be brave.
+- Can a man still be bravel when he is afraid? 
+- This is the only time a man can be brave.
