@@ -4,7 +4,6 @@
 **SakuragiHnmch/SakuragiHnmch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkuragiHnmch&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SkuragiHnmch&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 - Can a man still be brave when he is afraid? 
 - This is the only time a man can be brave.
