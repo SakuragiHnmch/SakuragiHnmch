@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakuragiHnmch)](https://github.com/anuraghazra/github-readme-stats)
-- Can a man still be brave when he is afraid? 
-- This is the only time a man can be brave.
